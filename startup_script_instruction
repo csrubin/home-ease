@@ -1,0 +1,5 @@
+
+File to run script at startup
+/home/pi/.bashrc
+
+change to crontab for ease of use
